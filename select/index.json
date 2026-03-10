@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゆず「GreenGreen」 from 「YUZU ONLINE LIVE 2021 YUZUTOWN / ALWAYS YUZUTOWN」DAY2 ＜for J-LODlive＞",
+  "base_artist": "YUZU",
+  "createdAt": "2026-03-10T04:51:38.041141Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆずの輪歌",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_ゆずの輪歌_ゆず.txt"
+    }
+  ]
+}
